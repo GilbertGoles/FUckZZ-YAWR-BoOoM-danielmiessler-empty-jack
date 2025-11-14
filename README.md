@@ -1,6 +1,6 @@
 # FUckZZ-YAWR-BoOoM-danielmiessler-empty-jack + BoNuS
 
-В случае использования BONUS или ALL измените evil.com на требуемый
+В случае использования BoNuS или ALL измените evil.com на требуемый
 
 
 https://github.com/Bo0oM/fuzz.txt 
